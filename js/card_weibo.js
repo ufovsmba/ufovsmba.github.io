@@ -14,7 +14,7 @@ fetch('https://weibo-top-api-rho.vercel.app/api').then(data => data.json()).then
   }
   for (let item of data) {
     html += '<div class="weibo-list-item"><div class="weibo-hotness ' + hotness[(item.hot || '荐')] + '">' + (item.hot || '荐') + '</div>'
-      + '<span class="weibo-title"><a title="' + item.title + '"href="' + item.url + '" target="_blank" rel="external nofollow noreferrer">' + item.title + '</a></span>'
+      + '<span class="weibo-title"><a title="' + item.title + '"href="' + item.url + '" target="_blank" rel="external nofollow noreferrer">' + '<font color="#4c4948">'+item.title+'</font>' + '</a></span>'
       + '<div class="weibo-num"><span>' + item.num + '</span></div></div>'
   }
   html += '</div>'
