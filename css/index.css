@@ -6294,7 +6294,59 @@ div#post{
 }
 
 
+/*文章页标题字体修改*/
+#post-info .post-title {
+  font-family: 'Candyhome',-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  margin-bottom: 8px;
+  color: #000000e3;
+ 
+  font-size: 2.5em;
+  line-height: 1.5;
+  -webkit-line-clamp: 3;
+}
 
+#post-info #post-meta {
+  color: #2c2c2c;
+}
+
+#post-info #post-meta a {
+  color: #000;
+}
+
+[data-theme="dark"]
+  #post-info .post-title {
+    font-family: 'Candyhome',-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    margin-bottom: 8px;
+    color: #ffffffe3;
+  
+    font-size: 2.5em;
+    line-height: 1.5;
+    -webkit-line-clamp: 3;
+  }
+
+[data-theme="dark"]
+  #post-info #post-meta {
+    color: #ffffff;
+  }
+
+[data-theme="dark"]
+  #post-info #post-meta a {
+    color: rgb(255, 255, 255);
+  }
+
+/*天气组件，夜间模式下修改字体*/
+[data-theme="dark"]
+  div.s-sticker-tmp.module {
+    color: rgb(233, 233, 233) ! important;
+  }
+[data-theme="dark"]
+  div.s-sticker-city.module {
+    color: rgb(233, 233, 233) ! important;
+  }
+[data-theme="dark"]
+  .s-sticker-qlty.module {
+    color: rgb(233, 233, 233) ! important;
+  }
 .search-dialog {
   position: fixed;
   top: 100px;
