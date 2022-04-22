@@ -6347,6 +6347,52 @@ div#post{
   .s-sticker-qlty.module {
     color: rgb(233, 233, 233) ! important;
   }
+
+
+  /*连接标签样式修改*/
+a.link-card {
+  background: linear-gradient(90deg, rgba(247, 149, 51, .1), rgba(243, 112, 85, .1) 15%, rgba(239, 78, 123, .1) 30%, rgba(161, 102, 171, .1) 44%, rgba(80, 115, 184, .1) 58%, rgba(16, 152, 173, .1) 72%, rgba(7, 179, 155, .1) 86%, rgba(109, 186, 130, .1)) !important;
+  color: #a77e7e !important;
+}
+
+#article-container .tabs > .nav-tabs > .tab button {
+  display: block;
+  padding: 8px 18px;
+  width: 100%;
+  border-top: 2px solid #c8f3c8;
+  background: #c8f3c8;
+  color: var(--tab-botton-color);
+  line-height: 2;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+#article-container .tabs > .nav-tabs > .tab.active button {
+  border-top: 2px solid #0e9124;
+  background: #ffffff;
+  cursor: default;
+}
+
+#article-container .tabs > .nav-tabs {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  -o-box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  background: #c8f3c8;
+}
 .search-dialog {
   position: fixed;
   top: 100px;
