@@ -6296,12 +6296,15 @@ div#post{
 
 /*文章页标题字体修改*/
 #post-info .post-title {
-  font-family: 'Candyhome',-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  margin-bottom: 8px;
-  color: #000000e3;
  
-  font-size: 2.5em;
+  margin-bottom: 8px;
+  margin: 0;
+  color: var(--white);
+  font-size: 1.85em;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
   line-height: 1.5;
+  font-weight: bold;
   -webkit-line-clamp: 3;
 }
 
@@ -6355,6 +6358,7 @@ a.link-card {
   color: #a77e7e !important;
 }
 
+/*修改tab样式*/
 #article-container .tabs > .nav-tabs > .tab button {
   display: block;
   padding: 8px 18px;
