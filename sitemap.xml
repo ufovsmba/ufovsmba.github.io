@@ -74,7 +74,16 @@
   </url>
   
   <url>
-    <loc>http://101.43.65.22/posts/e41942d98826/</loc>
+    <loc>http://101.43.65.22/posts/044cbedc9d88/</loc>
+    
+    <lastmod>2022-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://101.43.65.22/posts/455482d811be/</loc>
     
     <lastmod>2022-04-24</lastmod>
     
@@ -92,16 +101,16 @@
   </url>
   
   <url>
-    <loc>http://101.43.65.22/posts/e897d3717c7c/</loc>
+    <loc>http://101.43.65.22/posts/cbf0670f1993/</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://101.43.65.22/posts/8018615b09fa/</loc>
+    <loc>http://101.43.65.22/posts/e897d3717c7c/</loc>
     
     <lastmod>2022-04-05</lastmod>
     
@@ -337,6 +346,13 @@
   
   <url>
     <loc>http://101.43.65.22/tags/butterfly%E9%AD%94%E6%94%B9/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://101.43.65.22/tags/%E9%80%92%E5%BD%92/</loc>
     <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
