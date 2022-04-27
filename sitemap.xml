@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://101.43.65.22/tags/index.html</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://101.43.65.22/toyhouse/index.html</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://101.43.65.22/link/index.html</loc>
     
     <lastmod>2022-04-27</lastmod>
@@ -30,6 +12,24 @@
   
   <url>
     <loc>http://101.43.65.22/movies/index.html</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://101.43.65.22/tags/index.html</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://101.43.65.22/toyhouse/index.html</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -66,6 +66,15 @@
   
   <url>
     <loc>http://101.43.65.22/posts/8b793eb7376b/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://101.43.65.22/posts/5bdd72ac472b/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
