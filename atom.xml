@@ -3,11 +3,11 @@
   <title>Gallifrey&#39;s Blog</title>
   
   <subtitle>个人文章归档</subtitle>
-  <link href="http://101.43.65.22/atom.xml" rel="self"/>
+  <link href="https://gallifrey.asia/atom.xml" rel="self"/>
   
-  <link href="http://101.43.65.22/"/>
+  <link href="https://gallifrey.asia/"/>
   <updated>2022-04-28T07:24:14.000Z</updated>
-  <id>http://101.43.65.22/</id>
+  <id>https://gallifrey.asia/</id>
   
   <author>
     <name>Gallifrey</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>配套作业——贪心策略</title>
-    <link href="http://101.43.65.22/posts/8924da7ca3cd/"/>
-    <id>http://101.43.65.22/posts/8924da7ca3cd/</id>
+    <link href="https://gallifrey.asia/posts/8924da7ca3cd/"/>
+    <id>https://gallifrey.asia/posts/8924da7ca3cd/</id>
     <published>2022-04-28T07:24:14.000Z</published>
     <updated>2022-04-28T07:24:14.000Z</updated>
     
@@ -36,19 +36,19 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>算法设计与应用——贪心策略</title>
-    <link href="http://101.43.65.22/posts/c9ca5ef7866a/"/>
-    <id>http://101.43.65.22/posts/c9ca5ef7866a/</id>
+    <link href="https://gallifrey.asia/posts/c9ca5ef7866a/"/>
+    <id>https://gallifrey.asia/posts/c9ca5ef7866a/</id>
     <published>2022-04-28T06:09:08.000Z</published>
     <updated>2022-04-28T06:09:08.000Z</updated>
     
@@ -62,19 +62,19 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>配套作业——搜索</title>
-    <link href="http://101.43.65.22/posts/5bdd72ac472b/"/>
-    <id>http://101.43.65.22/posts/5bdd72ac472b/</id>
+    <link href="https://gallifrey.asia/posts/5bdd72ac472b/"/>
+    <id>https://gallifrey.asia/posts/5bdd72ac472b/</id>
     <published>2022-04-27T18:11:53.000Z</published>
     <updated>2022-04-27T18:11:53.000Z</updated>
     
@@ -91,19 +91,19 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>算法设计与应用——搜索法</title>
-    <link href="http://101.43.65.22/posts/8b6f243cca9b/"/>
-    <id>http://101.43.65.22/posts/8b6f243cca9b/</id>
+    <link href="https://gallifrey.asia/posts/8b6f243cca9b/"/>
+    <id>https://gallifrey.asia/posts/8b6f243cca9b/</id>
     <published>2022-04-27T16:32:15.000Z</published>
     <updated>2022-04-27T16:32:15.000Z</updated>
     
@@ -122,19 +122,19 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>配套作业——分治策略</title>
-    <link href="http://101.43.65.22/posts/f5ccd0a9e3db/"/>
-    <id>http://101.43.65.22/posts/f5ccd0a9e3db/</id>
+    <link href="https://gallifrey.asia/posts/f5ccd0a9e3db/"/>
+    <id>https://gallifrey.asia/posts/f5ccd0a9e3db/</id>
     <published>2022-04-27T03:06:36.000Z</published>
     <updated>2022-04-27T03:06:36.000Z</updated>
     
@@ -152,25 +152,25 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="分治" scheme="http://101.43.65.22/tags/%E5%88%86%E6%B2%BB/"/>
+    <category term="分治" scheme="https://gallifrey.asia/tags/%E5%88%86%E6%B2%BB/"/>
     
-    <category term="二分" scheme="http://101.43.65.22/tags/%E4%BA%8C%E5%88%86/"/>
+    <category term="二分" scheme="https://gallifrey.asia/tags/%E4%BA%8C%E5%88%86/"/>
     
-    <category term="快排" scheme="http://101.43.65.22/tags/%E5%BF%AB%E6%8E%92/"/>
+    <category term="快排" scheme="https://gallifrey.asia/tags/%E5%BF%AB%E6%8E%92/"/>
     
   </entry>
   
   <entry>
     <title>算法设计与应用——分治策略</title>
-    <link href="http://101.43.65.22/posts/eabebd9636e5/"/>
-    <id>http://101.43.65.22/posts/eabebd9636e5/</id>
+    <link href="https://gallifrey.asia/posts/eabebd9636e5/"/>
+    <id>https://gallifrey.asia/posts/eabebd9636e5/</id>
     <published>2022-04-27T01:47:49.000Z</published>
     <updated>2022-04-27T01:47:49.000Z</updated>
     
@@ -184,19 +184,19 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>配套作业——递归算法</title>
-    <link href="http://101.43.65.22/posts/2c7189466ff6/"/>
-    <id>http://101.43.65.22/posts/2c7189466ff6/</id>
+    <link href="https://gallifrey.asia/posts/2c7189466ff6/"/>
+    <id>https://gallifrey.asia/posts/2c7189466ff6/</id>
     <published>2022-04-26T14:53:52.000Z</published>
     <updated>2022-04-26T14:53:52.000Z</updated>
     
@@ -213,21 +213,21 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="递归" scheme="http://101.43.65.22/tags/%E9%80%92%E5%BD%92/"/>
+    <category term="递归" scheme="https://gallifrey.asia/tags/%E9%80%92%E5%BD%92/"/>
     
   </entry>
   
   <entry>
     <title>算法设计与应用——算法基础</title>
-    <link href="http://101.43.65.22/posts/044cbedc9d88/"/>
-    <id>http://101.43.65.22/posts/044cbedc9d88/</id>
+    <link href="https://gallifrey.asia/posts/044cbedc9d88/"/>
+    <id>https://gallifrey.asia/posts/044cbedc9d88/</id>
     <published>2022-04-26T01:14:23.000Z</published>
     <updated>2022-04-26T01:14:23.000Z</updated>
     
@@ -242,21 +242,21 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="递归" scheme="http://101.43.65.22/tags/%E9%80%92%E5%BD%92/"/>
+    <category term="递归" scheme="https://gallifrey.asia/tags/%E9%80%92%E5%BD%92/"/>
     
   </entry>
   
   <entry>
     <title>Android_ListView与GridView练习</title>
-    <link href="http://101.43.65.22/posts/455482d811be/"/>
-    <id>http://101.43.65.22/posts/455482d811be/</id>
+    <link href="https://gallifrey.asia/posts/455482d811be/"/>
+    <id>https://gallifrey.asia/posts/455482d811be/</id>
     <published>2022-04-24T21:25:11.000Z</published>
     <updated>2022-04-24T21:25:22.000Z</updated>
     
@@ -272,19 +272,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="实战练习" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
+    <category term="实战练习" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Flutter安装踩坑指南</title>
-    <link href="http://101.43.65.22/posts/61fa1a119308/"/>
-    <id>http://101.43.65.22/posts/61fa1a119308/</id>
+    <link href="https://gallifrey.asia/posts/61fa1a119308/"/>
+    <id>https://gallifrey.asia/posts/61fa1a119308/</id>
     <published>2022-04-24T04:16:14.000Z</published>
     <updated>2022-04-24T04:16:14.000Z</updated>
     
@@ -300,21 +300,21 @@
     
     
     
-    <category term="flutter" scheme="http://101.43.65.22/categories/flutter/"/>
+    <category term="flutter" scheme="https://gallifrey.asia/categories/flutter/"/>
     
     
-    <category term="flutter" scheme="http://101.43.65.22/tags/flutter/"/>
+    <category term="flutter" scheme="https://gallifrey.asia/tags/flutter/"/>
     
-    <category term="dart" scheme="http://101.43.65.22/tags/dart/"/>
+    <category term="dart" scheme="https://gallifrey.asia/tags/dart/"/>
     
   </entry>
   
   <entry>
     <title>Tag Plugins Plus标签插件的使用测试</title>
-    <link href="http://101.43.65.22/posts/8b793eb7376b/"/>
-    <id>http://101.43.65.22/posts/8b793eb7376b/</id>
+    <link href="https://gallifrey.asia/posts/8b793eb7376b/"/>
+    <id>https://gallifrey.asia/posts/8b793eb7376b/</id>
     <published>2022-04-21T07:35:00.000Z</published>
-    <updated>2022-04-28T15:27:39.657Z</updated>
+    <updated>2022-04-28T15:58:03.375Z</updated>
     
     <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul><li>在安装了店长的Tag Plugins Plus标签插件之后，想逐个测试一下各个标签的写法，以便以后自己回顾，因此有了这篇博客<del>（不是想水一篇博文）</del>。</li><li>插件的出处，安装，和完整的使用教程请看店长的原文,这里就不赘述了。<div class="tag link"><a class="link-card" title="Tag Plugins Plus" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.ico"></div><div class="right"><p class="text">Tag Plugins Plus</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div></li></ul><ul><li>因为是方便我个人使用，所以各个标签的测试并不会遵循一定的顺序</li><li>一些标签组件的组件的样式，我小幅度魔改过，所以可能按照教程写出来标签样式跟我不太一样，但功能是相同的</li><li>然后学业繁忙，本博文长期更新</li></ul><h2 id="分栏-tab"><a href="#分栏-tab" class="headerlink" title="分栏 tab"></a>分栏 tab</h2><div class="tabs" id="test01"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test01-1">配置语法</button></li><li class="tab"><button type="button" data-href="#test01-2">配置参数</button></li><li class="tab"><button type="button" data-href="#test01-3">效果预览</button></li><li class="tab"><button type="button" data-href="#test01-4">示例源码</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test01-1"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs Unique name,[index] %&#125;</span><br><span class="line">&lt;!-- tab [Tab caption] [@icon] --&gt;</span><br><span class="line">Any content (support inline tags too).</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test01-2"><ol><li>Unique name :<ul><li>选项卡块标签的唯一名称，不带逗号。</li><li>将在 #id 中用作每个标签及其索引号的前缀。</li><li>如果名称中包含空格，则对于生成 #id，所有空格将由破折号代替。</li><li>仅当前帖子 / 页面的 URL 必须是唯一的！</li></ul></li><li>[index]:<ul><li>活动选项卡的索引号。</li><li>如果未指定，将选择第一个标签（1）。</li><li>如果 index 为 - 1，则不会选择任何选项卡。</li><li>可选参数。</li></ul></li><li>[Tab caption]:<ul><li>当前选项卡的标题。</li><li>如果未指定标题，则带有制表符索引后缀的唯一名称将用作制表符的标题。</li><li>如果未指定标题，但指定了图标，则标题将为空。</li><li>可选参数。</li></ul></li><li>[@icon]:<ul><li>FontAwesome 图标名称（全名，看起来像 “fas fa-font”）</li><li>可以指定带空格或不带空格；</li><li>例如’Tab caption @icon’ 和 ‘Tab caption@icon’.</li><li>可选参数。</li></ul></li></ol><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test01-3"><div class="tabs" id="test_1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test_1-1">test_1 1</button></li><li class="tab"><button type="button" data-href="#test_1-2">test_1 2</button></li><li class="tab"><button type="button" data-href="#test_1-3">test_1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test_1-1"><p>不填index，预设默认选择第一个</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_1-2"><p>不填index，预设默认选择第一个</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_1-3"><p>不填index，预设默认第一个</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="tabs" id="test_2"><ul class="nav-tabs"><li class="tab"><button type="button" data-href="#test_2-1">test_2 1</button></li><li class="tab active"><button type="button" data-href="#test_2-2">test_2 2</button></li><li class="tab"><button type="button" data-href="#test_2-3">test_2 3</button></li></ul><div class="tab-contents"><div class="tab-item-content" id="test_2-1"><p>填写index，预设选择index值,这里index是2</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content active" id="test_2-2"><p>填写index，预设选择index值,这里index是2</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_2-3"><p>填写index，预设选择index值,这里index是2</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="tabs" id="test_3"><ul class="nav-tabs"><li class="tab"><button type="button" data-href="#test_3-1">test_3 1</button></li><li class="tab"><button type="button" data-href="#test_3-2">test_3 2</button></li><li class="tab"><button type="button" data-href="#test_3-3">test_3 3</button></li></ul><div class="tab-contents"><div class="tab-item-content" id="test_3-1"><p>index值为-1，没有预设值</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_3-2"><p>填写index，没有预设值</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_3-3"><p>填写index，没有预设值</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="tabs" id="test_4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test_4-1">只有tab名</button></li><li class="tab"><button type="button" data-href="#test_4-2"><i class="fas fa-bomb"></i>只有icon</button></li><li class="tab"><button type="button" data-href="#test_4-3"><i class="fas fa-bomb"></i>有tab名和icon</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test_4-1"><p>只有tab名</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_4-2"><p>只有icon</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test_4-3"><p>有tab名和icon</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test01-4"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs test_1 %&#125;</span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">不填index，预设默认选择第一个</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">不填index，预设默认选择第一个</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">不填index，预设默认第一个</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs test_2,2 %&#125;</span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">填写index，预设选择index值,这里index是2</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">填写index，预设选择index值,这里index是2</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">填写index，预设选择index值,这里index是2</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs test_3, -1 %&#125;</span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">index值为-1，没有预设值</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">填写index，没有预设值</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">填写index，没有预设值</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs test_4 %&#125;</span><br><span class="line">&lt;!-- tab 只有tab名 --&gt;</span><br><span class="line">只有tab名</span><br><span class="line">&lt;!-- endtab--&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 只有icon@fas fa-bomb --&gt;</span><br><span class="line">只有icon</span><br><span class="line">&lt;!-- endtab--&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 有tab名和icon@fas fa-bomb --&gt;</span><br><span class="line">有tab名和icon</span><br><span class="line">&lt;!-- endtab--&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="连接卡片-link"><a href="#连接卡片-link" class="headerlink" title="连接卡片 link"></a>连接卡片 link</h2><div class="tabs" id="link_test"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#link_test-1">配置语法</button></li><li class="tab"><button type="button" data-href="#link_test-2">效果预览</button></li><li class="tab"><button type="button" data-href="#link_test-3">示例代码</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="link_test-1"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% link 标题, 链接, 图片链接（可选） %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="link_test-2"><p>效果预览</p><div class="tag link"><a class="link-card" title="Tag Plugins Plus标签插件的使用测试" href="https://gallifrey.asia/posts/8b793eb7376b/"><div class="left"><img src="https://gallifrey.asia/images/shizi.png"></div><div class="right"><p class="text">Tag Plugins Plus标签插件的使用测试</p><p class="url">https://gallifrey.asia/posts/8b793eb7376b/</p></div></a></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="link_test-3"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% link Tag Plugins Plus标签插件的使用测试, https://gallifrey.asia/posts/8b793eb7376b/,https://gallifrey.asia/images/shizi.png %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="网站卡片-sitegroup"><a href="#网站卡片-sitegroup" class="headerlink" title="网站卡片 sitegroup"></a>网站卡片 sitegroup</h2><div class="tabs" id="sites_test"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#sites_test-1">配置语法</button></li><li class="tab"><button type="button" data-href="#sites_test-2">效果预览</button></li><li class="tab"><button type="button" data-href="#sites_test-3">示例源码</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="sites_test-1"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% sitegroup %&#125;</span><br><span class="line">&#123;% site 标题, url=链接, screenshot=截图链接, avatar=头像链接（可选）, description=描述（可选） %&#125;</span><br><span class="line">&#123;% site 标题, url=链接, screenshot=截图链接, avatar=头像链接（可选）, description=描述（可选） %&#125;</span><br><span class="line">&#123;% endsitegroup %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="sites_test-2"><div class="site-card-group"><a class="site-card" href="https://gallifrey.asia/posts/8b793eb7376b/"><div class="img"><img src="https://gallifrey.asia/img/sitehostIMG.webp"></div><div class="info"><img src="https://gallifrey.asia/images/shizi.png"><span class="title">gallifrey's bolg</span><span class="desc">我的技术归档，我的生活，我的梦</span></div></a><a class="site-card" href="https://gallifrey.asia/posts/8b793eb7376b/"><div class="img"><img src="https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg"></div><div class="info"><img src="https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png"><span class="title">Akilarの糖果屋</span><span class="desc">期待您的光临！</span></div></a></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="sites_test-3"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&#123;% sitegroup %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% site gallifrey&#x27;s bolg, url=https://gallifrey.asia/posts/8b793eb7376b/, screenshot=https://gallifrey.asia/img/sitehostIMG.webp, avatar=https://gallifrey.asia/images/shizi.png, description=Tag Plugins Plus标签插件的使用测试 %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% site Akilarの糖果屋, url=https://gallifrey.asia/posts/8b793eb7376b/, screenshot=https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg, avatar=https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png, description=期待您的光临！%&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endsitegroup %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="上标标签"><a href="#上标标签" class="headerlink" title="上标标签"></a>上标标签</h2><div class="tabs" id="tip_test"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#tip_test-1">标签语法</button></li><li class="tab"><button type="button" data-href="#tip_test-2">配置参数</button></li><li class="tab"><button type="button" data-href="#tip_test-3">样式预览</button></li><li class="tab"><button type="button" data-href="#tip_test-4">示例源码</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="tip_test-1"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip [参数，可选] %&#125;文本内容&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tip_test-2"><ol><li>样式: success,error,warning,bolt,ban,home,sync,cogs,key,bell</li><li>自定义图标: 支持fontawesome。</li><li>自定图标有bug，没有提权值，只能等店长更新插件了，不过这里还是放个fontawesome的链接：<a href="https://fontawesome.com/icons?from=io">Icons | Font Awesome</a></li></ol><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tip_test-3"><div class="tip "><p>默认情况</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-bomb"><p>自定义font awesome图标</p></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tip_test-4"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip %&#125;默认情况&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip success %&#125;success&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip error %&#125;error&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip warning %&#125;warning&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip bolt %&#125;bolt&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip ban %&#125;ban&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip home %&#125;home&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip sync %&#125;sync&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip cogs %&#125;cogs&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip key %&#125;key&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip bell %&#125;bell&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip fa-bomb %&#125;自定义font awesome图标&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="动态标签-anima"><a href="#动态标签-anima" class="headerlink" title="动态标签 anima"></a>动态标签 anima</h2><div class="tabs" id="anima_test"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#anima_test-1">标签语法</button></li><li class="tab"><button type="button" data-href="#anima_test-2">配置参数</button></li><li class="tab"><button type="button" data-href="#anima_test-3">样式预览</button></li><li class="tab"><button type="button" data-href="#anima_test-4">示例源码</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="anima_test-1"><p><span class="p center logo large faa-passing-reverse animated">animation</span><br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip [参数，可选] %&#125;文本内容&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="anima_test-2"><p>更多详情请参看<a href="http://l-lin.github.io/font-awesome-animation/">font-awesome-animation文档</a></p><ol><li>将所需的CSS类添加到图标（或DOM中的任何元素）。</li><li>对于父级悬停样式，需要给目标元素添加指定CSS类，同时还要给目标元素的父级元素添加CSS类<code>faa-parent animated-hover</code>。（详情见示例及示例源码）<br>You can regulate the speed of the animation by adding the CSS class or . faa-fastfaa-slow</li><li>可以通过给目标元素添加CSS类<code>faa-fast</code>或<code>faa-slow</code>来控制动画快慢。</li></ol><div class="table-container"><table><thead><tr><th style="text-align:left">On DOM load 当页面加载时 显示动画</th><th style="text-align:left">On hover 当鼠标悬停时 显示动画</th><th style="text-align:left">On parent hover 当鼠标悬停 在父级元素时 显示动画</th></tr></thead><tbody><tr><td style="text-align:left">faa-wrench animated</td><td style="text-align:left">faa-wrench animated-hover</td><td style="text-align:left">faa-wrench</td></tr><tr><td style="text-align:left">faa-ring animated</td><td style="text-align:left">faa-ring animated-hover</td><td style="text-align:left">faa-ring</td></tr><tr><td style="text-align:left">faa-horizontal animated</td><td style="text-align:left">faa-horizontal animated-hover</td><td style="text-align:left">faa-horizontal</td></tr><tr><td style="text-align:left">faa-vertical animated</td><td style="text-align:left">faa-vertical animated-hover</td><td style="text-align:left">faa-vertical</td></tr><tr><td style="text-align:left">faa-flash animated</td><td style="text-align:left">faa-flash animated-hover</td><td style="text-align:left">faa-flash</td></tr><tr><td style="text-align:left">faa-bounce animated</td><td style="text-align:left">faa-bounce animated-hover</td><td style="text-align:left">faa-bounce</td></tr><tr><td style="text-align:left">faa-spin animated</td><td style="text-align:left">faa-spin animated-hover</td><td style="text-align:left">faa-spin</td></tr><tr><td style="text-align:left">faa-tada animated</td><td style="text-align:left">faa-tada animated-hover</td><td style="text-align:left">faa-tada</td></tr><tr><td style="text-align:left">faa-pulse animated</td><td style="text-align:left">faa-pulse animated-hover</td><td style="text-align:left">faa-pulse</td></tr><tr><td style="text-align:left">faa-shake animated</td><td style="text-align:left">faa-shake animated-hover</td><td style="text-align:left">faa-shake</td></tr><tr><td style="text-align:left">faa-tada animated</td><td style="text-align:left">faa-tada animated-hover</td><td style="text-align:left">faa-tada</td></tr><tr><td style="text-align:left">faa-passing animated</td><td style="text-align:left">faa-passing animated-hover</td><td style="text-align:left">faa-passing</td></tr><tr><td style="text-align:left">faa-passing-reverse animated</td><td style="text-align:left">faa-passing-reverse animated-hover</td><td style="text-align:left">faa-passing-reverse</td></tr><tr><td style="text-align:left">faa-burst animated</td><td style="text-align:left">faa-burst animated-hover</td><td style="text-align:left">faa-burst</td></tr><tr><td style="text-align:left">faa-falling animated</td><td style="text-align:left">faa-falling animated-hover</td><td style="text-align:left">faa-falling</td></tr><tr><td style="text-align:left">faa-rising animated</td><td style="text-align:left">faa-rising animated-hover</td><td style="text-align:left">faa-rising</td></tr></tbody></table></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="anima_test-3"><ol><li>On DOM load（当页面加载时显示动画）</li></ol><div class="tip warning faa-horizontal animated"><p>warning</p></div><div class="tip ban faa-flash animated"><p>ban</p></div><ol><li>调整动画速度</li></ol><div class="tip warning faa-horizontal animated faa-fast"><p>warning</p></div><div class="tip ban faa-flash animated faa-slow"><p>ban</p></div><ol><li>On hover（当鼠标悬停时显示动画）</li></ol><div class="tip warning faa-horizontal animated-hover"><p>warning</p></div><div class="tip ban faa-flash animated-hover"><p>ban</p></div><ol><li>On parent hover（当鼠标悬停在父级元素时显示动画）</li></ol><div class="tip warning faa-parent animated-hover"><p class="faa-horizontal">warning</p></div><div class="tip ban faa-parent animated-hover"><p class="faa-flash">ban</p></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="anima_test-4"><ol><li><p>On DOM load（当页面加载时显示动画）</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip warning faa-horizontal animated %&#125;warning&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip ban faa-flash animated %&#125;ban&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></li><li><p>调整动画速度</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip warning faa-horizontal animated faa-fast %&#125;warning&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip ban faa-flash animated faa-slow %&#125;ban&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></li><li><p>On hover（当鼠标悬停时显示动画）</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip warning faa-horizontal animated-hover %&#125;warning&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip ban faa-flash animated-hover %&#125;ban&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></li><li><p>On parent hover（当鼠标悬停在父级元素时显示动画）</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip warning faa-parent animated-hover %&#125;<span class="language-xml"><span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;faa-horizontal&quot;</span>&gt;</span></span>warning<span class="language-xml"><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span>&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip ban faa-parent animated-hover %&#125;<span class="language-xml"><span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;faa-flash&quot;</span>&gt;</span></span>ban<span class="language-xml"><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span>&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></li></ol><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
     
@@ -327,17 +327,17 @@
     
     
     
-    <category term="butterfly主题美化" scheme="http://101.43.65.22/categories/butterfly%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/"/>
+    <category term="butterfly主题美化" scheme="https://gallifrey.asia/categories/butterfly%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/"/>
     
     
-    <category term="butterfly魔改" scheme="http://101.43.65.22/tags/butterfly%E9%AD%94%E6%94%B9/"/>
+    <category term="butterfly魔改" scheme="https://gallifrey.asia/tags/butterfly%E9%AD%94%E6%94%B9/"/>
     
   </entry>
   
   <entry>
     <title>Android_Dialog练习</title>
-    <link href="http://101.43.65.22/posts/cbf0670f1993/"/>
-    <id>http://101.43.65.22/posts/cbf0670f1993/</id>
+    <link href="https://gallifrey.asia/posts/cbf0670f1993/"/>
+    <id>https://gallifrey.asia/posts/cbf0670f1993/</id>
     <published>2022-04-06T14:22:49.000Z</published>
     <updated>2022-04-06T14:26:49.000Z</updated>
     
@@ -351,19 +351,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="实战练习" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
+    <category term="实战练习" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Android_Fragment练习</title>
-    <link href="http://101.43.65.22/posts/e897d3717c7c/"/>
-    <id>http://101.43.65.22/posts/e897d3717c7c/</id>
+    <link href="https://gallifrey.asia/posts/e897d3717c7c/"/>
+    <id>https://gallifrey.asia/posts/e897d3717c7c/</id>
     <published>2022-04-05T21:47:03.000Z</published>
     <updated>2022-04-05T21:47:03.000Z</updated>
     
@@ -380,19 +380,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="实战练习" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
+    <category term="实战练习" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Android_4.3AdapterView与Adapter</title>
-    <link href="http://101.43.65.22/posts/8925808c2fe0/"/>
-    <id>http://101.43.65.22/posts/8925808c2fe0/</id>
+    <link href="https://gallifrey.asia/posts/8925808c2fe0/"/>
+    <id>https://gallifrey.asia/posts/8925808c2fe0/</id>
     <published>2022-04-05T11:43:01.000Z</published>
     <updated>2022-04-05T11:43:01.000Z</updated>
     
@@ -408,19 +408,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="UI进阶" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E8%BF%9B%E9%98%B6/"/>
+    <category term="UI进阶" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E8%BF%9B%E9%98%B6/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Android_4.2Menu和Toolbar</title>
-    <link href="http://101.43.65.22/posts/b43dacf3ed69/"/>
-    <id>http://101.43.65.22/posts/b43dacf3ed69/</id>
+    <link href="https://gallifrey.asia/posts/b43dacf3ed69/"/>
+    <id>https://gallifrey.asia/posts/b43dacf3ed69/</id>
     <published>2022-04-04T11:37:41.000Z</published>
     <updated>2022-04-04T11:37:41.000Z</updated>
     
@@ -431,19 +431,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="UI进阶" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E8%BF%9B%E9%98%B6/"/>
+    <category term="UI进阶" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E8%BF%9B%E9%98%B6/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Android_4.1Fragment</title>
-    <link href="http://101.43.65.22/posts/4a295e5b0938/"/>
-    <id>http://101.43.65.22/posts/4a295e5b0938/</id>
+    <link href="https://gallifrey.asia/posts/4a295e5b0938/"/>
+    <id>https://gallifrey.asia/posts/4a295e5b0938/</id>
     <published>2022-04-04T02:53:54.000Z</published>
     <updated>2022-04-04T02:53:54.000Z</updated>
     
@@ -454,19 +454,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="UI进阶" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E8%BF%9B%E9%98%B6/"/>
+    <category term="UI进阶" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E8%BF%9B%E9%98%B6/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>线性规划</title>
-    <link href="http://101.43.65.22/posts/72681c2003bb/"/>
-    <id>http://101.43.65.22/posts/72681c2003bb/</id>
+    <link href="https://gallifrey.asia/posts/72681c2003bb/"/>
+    <id>https://gallifrey.asia/posts/72681c2003bb/</id>
     <published>2022-04-01T01:14:23.000Z</published>
     <updated>2022-04-01T01:14:23.000Z</updated>
     
@@ -480,19 +480,19 @@
     
     
     
-    <category term="算法" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="学校" scheme="http://101.43.65.22/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
+    <category term="学校" scheme="https://gallifrey.asia/categories/%E7%AE%97%E6%B3%95/%E5%AD%A6%E6%A0%A1/"/>
     
     
-    <category term="算法" scheme="http://101.43.65.22/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>操作系统学习笔记（一）</title>
-    <link href="http://101.43.65.22/posts/4194d1de52bf/"/>
-    <id>http://101.43.65.22/posts/4194d1de52bf/</id>
+    <link href="https://gallifrey.asia/posts/4194d1de52bf/"/>
+    <id>https://gallifrey.asia/posts/4194d1de52bf/</id>
     <published>2022-03-16T04:28:25.000Z</published>
     <updated>2022-03-30T04:42:56.000Z</updated>
     
@@ -503,17 +503,17 @@
     
     
     
-    <category term="操作系统" scheme="http://101.43.65.22/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://gallifrey.asia/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="操作系统" scheme="http://101.43.65.22/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://gallifrey.asia/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>Android_3.4widget组件</title>
-    <link href="http://101.43.65.22/posts/d0d9b16eeaae/"/>
-    <id>http://101.43.65.22/posts/d0d9b16eeaae/</id>
+    <link href="https://gallifrey.asia/posts/d0d9b16eeaae/"/>
+    <id>https://gallifrey.asia/posts/d0d9b16eeaae/</id>
     <published>2022-03-09T09:13:54.000Z</published>
     <updated>2022-03-31T09:13:54.000Z</updated>
     
@@ -524,19 +524,19 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="UI编程基础" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
+    <category term="UI编程基础" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Android_3.3事件处理</title>
-    <link href="http://101.43.65.22/posts/a69d6c48b245/"/>
-    <id>http://101.43.65.22/posts/a69d6c48b245/</id>
+    <link href="https://gallifrey.asia/posts/a69d6c48b245/"/>
+    <id>https://gallifrey.asia/posts/a69d6c48b245/</id>
     <published>2022-03-08T09:13:54.000Z</published>
     <updated>2022-03-31T09:13:54.000Z</updated>
     
@@ -550,12 +550,12 @@
     
     
     
-    <category term="Android学习笔记" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="UI编程基础" scheme="http://101.43.65.22/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
+    <category term="UI编程基础" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/UI%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="Android" scheme="http://101.43.65.22/tags/Android/"/>
+    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   
