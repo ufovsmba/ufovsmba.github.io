@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gallifrey.asia/link/index.html</loc>
+    
+    <lastmod>2022-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gallifrey.asia/movies/index.html</loc>
     
     <lastmod>2022-04-28</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://gallifrey.asia/toyhouse/index.html</loc>
-    
-    <lastmod>2022-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gallifrey.asia/link/index.html</loc>
     
     <lastmod>2022-04-28</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://gallifrey.asia/posts/72681c2003bb/</loc>
+    <loc>https://gallifrey.asia/posts/4e3708264857/</loc>
     
     <lastmod>2022-04-01</lastmod>
     
