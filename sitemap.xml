@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://gallifrey.asia/census/index.html</loc>
-    
-    <lastmod>2022-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://gallifrey.asia/charts/index.html</loc>
     
     <lastmod>2022-05-05</lastmod>
@@ -74,7 +65,34 @@
   </url>
   
   <url>
+    <loc>https://gallifrey.asia/census/index.html</loc>
+    
+    <lastmod>2022-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gallifrey.asia/posts/8b793eb7376b/</loc>
+    
+    <lastmod>2022-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gallifrey.asia/posts/22ce72acb5bb/</loc>
+    
+    <lastmod>2022-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gallifrey.asia/posts/3c604ad8ecae/</loc>
     
     <lastmod>2022-05-05</lastmod>
     
