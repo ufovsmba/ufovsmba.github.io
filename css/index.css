@@ -6397,6 +6397,18 @@ a.link-card {
   padding: 0;
   background: #c8f3c8;
 }
+
+[data-theme="dark"]
+  #article-container .tabs > .nav-tabs > .tab button {
+    display: block;
+    padding: 8px 18px;
+    width: 100%;
+    border-top: 2px solid #c8f3c8;
+    background: #c8f3c8;
+    color: black;
+    line-height: 2;
+    transition: all 0.4s;
+  }
 .search-dialog {
   position: fixed;
   top: 100px;
