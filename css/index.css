@@ -6196,7 +6196,7 @@ blockquote.pullquote.right {
 
 /* 首页侧栏卡片 */
 .card-widget{
-background:rgba(255, 255, 255, 0.8)!important;
+background:rgba(255, 255, 255, 0.9)!important;
 }
 
 
@@ -6251,7 +6251,7 @@ background: rgba(255, 255, 255, 0.9);
     }
 /* 分类页面 */
 div#category{
-background: rgba(255, 255, 255, 0.5);
+background: rgba(255, 255, 255, 0.9);
 }
 [data-theme="dark"]
   div#category{
