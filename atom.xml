@@ -6,7 +6,7 @@
   <link href="https://gallifrey.asia/atom.xml" rel="self"/>
   
   <link href="https://gallifrey.asia/"/>
-  <updated>2022-05-11T03:17:49.000Z</updated>
+  <updated>2022-05-29T08:02:53.000Z</updated>
   <id>https://gallifrey.asia/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一周入门微信小程序开发（第一天）</title>
+    <link href="https://gallifrey.asia/posts/ca6652d135ea/"/>
+    <id>https://gallifrey.asia/posts/ca6652d135ea/</id>
+    <published>2022-05-29T08:02:53.000Z</published>
+    <updated>2022-05-29T08:02:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="微信小程序开发" scheme="https://gallifrey.asia/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="微信小程序开发" scheme="https://gallifrey.asia/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="学习日记" scheme="https://gallifrey.asia/tags/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>操作系统学习笔记（五）IO管理</title>
@@ -538,34 +565,6 @@
     <category term="算法" scheme="https://gallifrey.asia/tags/%E7%AE%97%E6%B3%95/"/>
     
     <category term="递归" scheme="https://gallifrey.asia/tags/%E9%80%92%E5%BD%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android_ListView与GridView练习</title>
-    <link href="https://gallifrey.asia/posts/455482d811be/"/>
-    <id>https://gallifrey.asia/posts/455482d811be/</id>
-    <published>2022-04-24T21:25:11.000Z</published>
-    <updated>2022-04-24T21:25:22.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;需求分析&quot;&gt;&lt;a href=&quot;#需求分析&quot; class=&quot;headerlink&quot; title=&quot;需求分析&quot;&gt;&lt;/a&gt;需求分析&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;请用ListView和自定义Adapter实现下列页面（可以自行设计并添加元素，以丰富该页面）</summary>
-        
-      
-    
-    
-    
-    <category term="Android学习笔记" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="实战练习" scheme="https://gallifrey.asia/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0/"/>
-    
-    
-    <category term="Android" scheme="https://gallifrey.asia/tags/Android/"/>
     
   </entry>
   

@@ -6152,7 +6152,7 @@ background:rgba(255, 255, 255, 0.9)!important;
 
 /* 文章页面正文背景 */
 div#post{
-background: rgba(255, 255, 255, 0.9);
+background: rgba(255, 255, 255, 1);
 }
 
 /* 夜间模式 文章页面正文背景 */
