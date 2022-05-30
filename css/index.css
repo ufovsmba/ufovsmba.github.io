@@ -6350,6 +6350,21 @@ a.link-card {
     line-height: 2;
     transition: all 0.4s;
   }
+
+
+  
+.layout{
+  display: flex;
+  margin: 0px
+  auto;
+  padding: 1.1rem 2.5px;
+  max-width: 1400px;
+}
+
+div#aside-content{
+  max-width: 290px;
+  padding-left: 20px;
+}
 .search-dialog {
   position: fixed;
   top: 100px;
