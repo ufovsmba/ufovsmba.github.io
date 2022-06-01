@@ -6365,6 +6365,26 @@ div#aside-content{
   max-width: 290px;
   padding-left: 20px;
 }
+
+/* 标题大小修改 */
+h2{
+  font-size: 1.75em;
+  line-height: 1.225;
+}
+
+h3{
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+h4{
+  font-size: 1.25em;
+}
+
+/* 文章布局居中 */
+#content-inner, #footer {
+  justify-content: center;
+}
 .search-dialog {
   position: fixed;
   top: 100px;
